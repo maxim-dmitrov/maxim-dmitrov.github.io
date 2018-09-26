@@ -1,0 +1,1062 @@
+html a:hover {
+  color: rgb(44, 42, 64);
+}
+
+html a[href^="tel:"] {
+  color: rgb(62, 209, 193);
+}
+
+html body {
+  color: rgba(0, 0, 0, 0.79);
+  background-color: rgb(250, 254, 246);
+}
+
+html a {
+  color: rgb(8, 18, 17);
+}
+
+html a.fixed-button.button1 {
+  background-color: rgb(237, 77, 51);
+  border-top-color: rgb(237, 77, 51);
+  border-right-color: rgb(237, 77, 51);
+  border-bottom-color: rgb(237, 77, 51);
+  border-left-color: rgb(237, 77, 51);
+}
+
+html a.fixed-button.button1:hover {
+  background-image: url("./72f339ad0d37bc441a0dc765597ea2d7.svg");
+}
+
+html a.fixed-button.button1:active {
+  background-color: rgb(195, 53, 30);
+}
+
+html .top-navigation {
+  background-color: rgb(237, 77, 51);
+}
+
+html .top-navigation.inverse {
+  background-color: rgb(44, 42, 64);
+  border-bottom-color: rgb(63, 58, 119);
+}
+
+html .top-navigation .social-block-top path {
+  fill: rgb(248, 248, 252);
+}
+
+html .top-navigation .e-mail-top {
+  background-image: url("./d1c44fc9c7d754279c65610452770993.svg");
+}
+
+html .top-navigation .e-mail-top a {
+  color: rgb(252, 248, 248);
+}
+
+html .top-navigation .phone-top {
+  background-image: url("./ea9293db7e4d7fd5b6e955708e558c48.svg");
+}
+
+html .top-navigation .phone-top a {
+  color: rgb(252, 244, 244);
+}
+
+html .header.inverse {
+  background-color: rgb(22, 158, 151);
+}
+
+html .header.inverse .company-activity {
+  color: rgb(249, 252, 246);
+}
+
+html .header.inverse .header__right-part .menu-top > li > a:hover {
+  color: rgb(164, 234, 64);
+  border-top-color: rgb(164, 234, 64);
+  border-right-color: rgb(164, 234, 64);
+  border-bottom-color: rgb(164, 234, 64);
+  border-left-color: rgb(164, 234, 64);
+}
+
+html .header__left-part .company-activity {
+  color: rgb(83, 103, 55);
+}
+
+html .header__right-part .menu-top > li > a:hover {
+  color: rgb(99, 156, 21);
+  border-top-color: rgb(130, 193, 44);
+  border-right-color: rgb(130, 193, 44);
+  border-bottom-color: rgb(130, 193, 44);
+  border-left-color: rgb(130, 193, 44);
+}
+
+html .header__right-part .menu-top > li.dropdown-wrap:hover {
+  background-color: rgb(106, 170, 13);
+}
+
+html .triple-block.inverse svg path {
+  fill: rgb(42, 187, 180);
+}
+
+html .triple-block__inner .item {
+  background-color: rgb(42, 187, 180);
+}
+
+html .triple-block__inner .item + .item {
+  background-color: rgb(29, 160, 153);
+}
+
+html .triple-block__inner .item + .item + .item {
+  background-color: rgb(14, 142, 136);
+}
+
+html .services.inverse {
+  background-color: rgb(22, 156, 150);
+}
+
+html .services.inverse svg {
+  background-color: rgba(25, 126, 121, 0.76);
+}
+
+html .services.inverse .title {
+  color: rgb(252, 252, 252);
+}
+
+html .services svg path {
+  fill: rgb(237, 77, 51);
+}
+
+html .accordion {
+  background-color: rgb(195, 195, 195);
+}
+
+html .accordion.inverse {
+  background-color: rgb(44, 42, 64);
+}
+
+html .services2.inverse .blocks .item {
+  background-color: rgb(44, 42, 64);
+}
+
+html .services2.inverse .blocks .item .text .title {
+  color: rgb(54, 229, 220);
+}
+
+html .services2 .blocks .item .text a {
+  background-color: rgb(42, 187, 180);
+  border-top-color: rgb(42, 187, 180);
+  border-right-color: rgb(42, 187, 180);
+  border-bottom-color: rgb(42, 187, 180);
+  border-left-color: rgb(42, 187, 180);
+}
+
+html .services2 .blocks .item .text a:hover {
+  color: rgb(42, 187, 180);
+}
+
+html .content-form {
+  background-color: rgb(237, 77, 51);
+}
+
+html .content-form.inverse .content-form__title {
+  color: rgb(237, 77, 51);
+}
+
+html .content-form.inverse .content-form__link {
+  border-top-color: rgb(42, 187, 180);
+  border-right-color: rgb(42, 187, 180);
+  border-bottom-color: rgb(42, 187, 180);
+  border-left-color: rgb(42, 187, 180);
+  background-color: rgb(42, 187, 180);
+}
+
+html .content-form.inverse .content-form__link:hover {
+  color: rgb(42, 187, 180);
+}
+
+html .slider-bottom.inverse {
+  background-color: rgb(44, 42, 64);
+}
+
+html .slider-bottom.inverse .owl-item a .image .body {
+  background-color: rgba(11, 156, 149, 0.76);
+}
+
+html .slider-bottom.inverse .owl-item a .text {
+  color: rgb(89, 238, 229);
+}
+
+html .slider-bottom__inner .owl-item a .image .body {
+  background-color: rgba(42, 187, 180, 0.67);
+}
+
+html .upperfooter.inverse .upperfooter__second .icon svg {
+  border-top-color: rgb(237, 77, 51);
+  border-right-color: rgb(237, 77, 51);
+  border-bottom-color: rgb(237, 77, 51);
+  border-left-color: rgb(237, 77, 51);
+}
+
+html .upperfooter.inverse .upperfooter__second .icon svg path {
+  fill: rgb(237, 77, 51);
+}
+
+html .upperfooter.inverse .upperfooter__third .owl-dots .owl-dot.active::before {
+  background-color: rgb(237, 77, 51);
+}
+
+html .upperfooter.inverse .upperfooter__third .owl-dots .owl-dot.active::after {
+  border-top-color: rgb(237, 77, 51);
+  border-right-color: rgb(237, 77, 51);
+  border-bottom-color: rgb(237, 77, 51);
+  border-left-color: rgb(237, 77, 51);
+}
+
+html .upperfooter__first {
+  background-color: rgb(45, 167, 161);
+}
+
+html .upperfooter__second {
+  background-color: rgb(42, 187, 180);
+}
+
+html .upperfooter__third {
+  background-color: rgb(21, 158, 151);
+}
+
+html .upperfooter__third .owl-dots .owl-dot::before {
+  background-color: rgb(145, 220, 37);
+}
+
+html .upperfooter__third .owl-dots .owl-dot::after {
+  border-top-color: rgb(126, 190, 34);
+  border-right-color: rgb(126, 190, 34);
+  border-bottom-color: rgb(126, 190, 34);
+  border-left-color: rgb(126, 190, 34);
+}
+
+html .footer {
+  background-color: rgb(44, 42, 64);
+}
+
+html .footer__left .phone {
+  background-image: url("./6dee757a42482f3a29a38761bd60044e.svg");
+}
+
+html .footer__left .address {
+  background-image: url("./2d556286f8b7e8767ee280faeb4148ef.svg");
+}
+
+html .footer__left .e-mail {
+  background-image: url("./868563d0168262db91a36c3aee633782.svg");
+}
+
+html .underfooter {
+  background-color: rgb(42, 187, 180);
+  color: rgb(255, 249, 249);
+}
+
+html .slider-bottom.inverse .owl-dots .owl-dot.active::before {
+  background-color: rgb(126, 190, 34);
+}
+
+html .slider-bottom.inverse .owl-dots .owl-dot:hover::before {
+  background-color: rgb(164, 234, 64);
+}
+
+html .slider-bottom.inverse .owl-dots .owl-dot.active::after {
+  border-top-color: rgb(126, 190, 34);
+  border-right-color: rgb(126, 190, 34);
+  border-bottom-color: rgb(126, 190, 34);
+  border-left-color: rgb(126, 190, 34);
+}
+
+html .slider-bottom.inverse .owl-dots .owl-dot:hover::after {
+  border-top-color: rgb(164, 234, 64);
+  border-right-color: rgb(164, 234, 64);
+  border-bottom-color: rgb(164, 234, 64);
+  border-left-color: rgb(164, 234, 64);
+}
+
+html .inverse .footer__left .phone {
+  background-image: url("./776d3843c0c617979fb34c9583f6fb86.svg");
+}
+
+html .inverse .footer__left .address {
+  background-image: url("./da1c35494815967772919ec117c2980d.svg");
+}
+
+html .inverse .footer__left .e-mail {
+  background-image: url("./6f9bd66115a436dea3aeec0da11fe43a.svg");
+}
+
+html .accordion.inverse .item .title::before {
+  background-image: url("./ee6dfa785fe7884f304142609f892a03.svg");
+}
+
+html .services2.inverse .blocks .item .text a {
+  border-top-color: rgb(42, 187, 180);
+  border-right-color: rgb(42, 187, 180);
+  border-bottom-color: rgb(42, 187, 180);
+  border-left-color: rgb(42, 187, 180);
+  background-color: rgb(42, 187, 180);
+}
+
+html .services2.inverse .blocks .item .text a:hover {
+  border-top-color: rgb(42, 187, 180);
+  border-right-color: rgb(42, 187, 180);
+  border-bottom-color: rgb(42, 187, 180);
+  border-left-color: rgb(42, 187, 180);
+  color: rgb(252, 254, 253);
+}
+
+html .edit_b_wrapper.inverse {
+  background-color: rgb(44, 42, 64);
+}
+
+html .m_text_wrapper {
+  background-color: rgb(254, 253, 252);
+}
+
+html .m_text_wrapper.inverse {
+  background-color: rgb(37, 34, 60);
+}
+
+html .m_text_wrapper .text_blocks .title {
+  color: rgb(237, 77, 51);
+}
+
+html .m_text_wrapper.inverse .text_blocks .title {
+  color: rgb(245, 95, 70);
+}
+
+html .top_slider_wrapper.inverse .text_wrap .slider_button {
+  border-top-color: rgb(237, 77, 51);
+  border-right-color: rgb(237, 77, 51);
+  border-bottom-color: rgb(237, 77, 51);
+  border-left-color: rgb(237, 77, 51);
+  background-color: rgb(237, 77, 51);
+}
+
+html .top_slider_wrapper.inverse .bx-pager .bx-pager-item a.active {
+  border-top-color: rgb(237, 77, 51);
+  border-right-color: rgb(237, 77, 51);
+  border-bottom-color: rgb(237, 77, 51);
+  border-left-color: rgb(237, 77, 51);
+  background-color: rgb(237, 77, 51);
+}
+
+html .top_slider_wrapper .text_wrap .slider_button {
+  background-color: rgb(42, 187, 180);
+  border-top-color: rgb(42, 187, 180);
+  border-right-color: rgb(42, 187, 180);
+  border-bottom-color: rgb(42, 187, 180);
+  border-left-color: rgb(42, 187, 180);
+}
+
+html .top_slider_wrapper .bx-pager .bx-pager-item a.active {
+  background-color: rgb(42, 187, 180);
+  border-top-color: rgb(42, 187, 180);
+  border-right-color: rgb(42, 187, 180);
+  border-bottom-color: rgb(42, 187, 180);
+  border-left-color: rgb(42, 187, 180);
+}
+
+html .map-contacts-theme9 .contacts-wrapper .worktime {
+  color: rgb(60, 60, 60);
+}
+
+html .map-contacts-theme9.inverse .block-title {
+  background-color: rgb(42, 187, 180);
+}
+
+html .map-contacts-theme9.inverse .contacts-wrapper {
+  background-color: rgb(42, 187, 180);
+}
+
+html .partners--theme9 .owl-dots .owl-dot.active {
+  background-color: rgb(129, 197, 30);
+  border-top-color: rgb(129, 197, 30);
+  border-right-color: rgb(129, 197, 30);
+  border-bottom-color: rgb(129, 197, 30);
+  border-left-color: rgb(129, 197, 30);
+}
+
+html .partners--theme9 .owl-dots .owl-dot.active::before {
+  border-top-color: rgb(129, 197, 30);
+  border-right-color: rgb(129, 197, 30);
+  border-bottom-color: rgb(129, 197, 30);
+  border-left-color: rgb(129, 197, 30);
+}
+
+html .partners--theme9.inverse .partners-wrapper {
+  background-color: rgb(44, 42, 64);
+}
+
+html .multi-text-no-pic .multi-text-wrapper {
+  background-color: rgb(231, 231, 231);
+}
+
+html .multi-text-no-pic .text-block .title {
+  color: rgb(237, 77, 51);
+}
+
+html .multi-text-no-pic.inverse .multi-text-wrapper {
+  background-color: rgb(41, 39, 52);
+}
+
+html .multi-text-no-pic.inverse .text-block .title {
+  color: rgb(250, 93, 68);
+}
+
+html .reviews--theme9 .reviews-wrapper {
+  background-color: rgb(250, 250, 250);
+}
+
+html .reviews--theme9 .block-title {
+  color: rgb(48, 48, 48);
+}
+
+html .reviews--theme9.inverse .reviews-wrapper {
+  background-color: rgb(42, 187, 180);
+}
+
+html .video-block--theme9.inverse .video-block-wrapper {
+  background-color: rgb(40, 38, 57);
+}
+
+html .products-with-pic--theme9 .products-wrapper {
+  background-color: rgb(42, 187, 180);
+}
+
+html .products-with-pic--theme9 .product .bottom-part .text {
+  color: rgb(103, 103, 103);
+}
+
+html .products-with-pic--theme9 .product .bottom-part .price {
+  color: rgb(255, 57, 24);
+}
+
+html .products-with-pic--theme9 .product .bottom-part .button a {
+  background-color: rgb(237, 77, 51);
+}
+
+html .products-with-pic--theme9 .product-inner {
+  background-color: rgb(254, 253, 252);
+}
+
+html .products-with-pic--theme9.inverse .products-wrapper {
+  background-color: rgb(44, 42, 64);
+}
+
+html .products-with-pic--theme9.inverse .text-before {
+  color: rgb(248, 248, 248);
+}
+
+html .products-with-pic--theme9.inverse .product .bottom-part .button a {
+  background-color: rgb(237, 77, 51);
+}
+
+html .products--theme9 .products-wrapper {
+  background-color: rgba(195, 195, 195, 0.42);
+}
+
+html .products--theme9 .product .top-part {
+  background-color: rgb(44, 42, 64);
+}
+
+html .products--theme9 .product .bottom-part .button a {
+  background-color: rgb(237, 77, 51);
+}
+
+html .products--theme9.inverse .products-wrapper {
+  background-color: rgb(39, 36, 60);
+}
+
+html .products--theme9.inverse .product .top-part {
+  background-color: rgb(245, 98, 74);
+}
+
+html .products--theme9.inverse .product .bottom-part .button a {
+  background-color: rgb(42, 187, 180);
+}
+
+html .foto-gallery-inline--theme9 .foto-gallery-inline-wrapper {
+  background-color: rgb(32, 30, 53);
+}
+
+html .foto-gallery-inline--theme9 .block-title {
+  color: rgb(197, 197, 197);
+}
+
+html .foto-gallery-inline--theme9 .item .text-inner {
+  color: rgb(223, 223, 223);
+}
+
+html .foto-gallery-inline--theme9.inverse .foto-gallery-inline-wrapper {
+  background-color: rgb(44, 42, 64);
+}
+
+html .foto-gallery-inline--theme9.inverse .block-title {
+  color: rgb(232, 225, 225);
+}
+
+html .foto-gallery-inline--theme9.inverse .item .text-inner {
+  color: rgb(243, 241, 241);
+}
+
+html .video-block-two--theme9 .video-block-wrapper {
+  background-color: rgb(44, 42, 64);
+}
+
+html .video-block-two--theme9 .block-title {
+  color: rgb(31, 175, 187);
+}
+
+html .video-block-two--theme9 .text {
+  color: rgb(244, 239, 231);
+}
+
+html .text-with-pic--theme9 .text-with-pic-wrapper {
+  background-color: rgb(231, 231, 231);
+}
+
+html .text-with-pic--theme9.inverse .text-with-pic-wrapper {
+  background-color: rgb(44, 42, 64);
+}
+
+html .text-with-pic--theme9.inverse .text-with-pic-inner .text-part .title {
+  color: rgb(161, 241, 237);
+}
+
+html .text-with-pic--theme9.inverse .text-with-pic-inner .text-part .title-after {
+  color: rgb(40, 238, 228);
+}
+
+html .text-with-pic--theme9.inverse .text-with-pic-inner .text-part .text {
+  color: rgb(234, 231, 231);
+}
+
+html .map-with-contacts-theme9 .contacts {
+  background-color: rgba(44, 42, 64, 0.89);
+}
+
+html .map-with-contacts-theme9.inverse .contacts {
+  background-color: rgb(42, 187, 180);
+}
+
+html .big-pic--theme9 .big-pic-inner .text-part {
+  background-color: rgba(44, 42, 64, 0.59);
+}
+
+html .header-one--theme9 .site-name {
+  color: rgb(237, 77, 51);
+}
+
+html .header-one--theme9.inverse .header-one-wrapper {
+  background-color: rgb(33, 30, 60);
+}
+
+html .header-one--theme9.inverse .site-name {
+  color: rgb(250, 246, 246);
+}
+
+html .contacts-one--theme9 .block.one .phone {
+  color: rgb(0, 0, 0);
+}
+
+html .contacts-one--theme9 .block > div::before {
+  background-color: rgb(237, 77, 51);
+}
+
+html .contacts-one--theme9.inverse .contacts-one-wrapper {
+  background-color: rgb(44, 42, 64);
+}
+
+html .contacts-one--theme9.inverse .block.one .work-time::before {
+  background-image: url("./c5e3ea1c44a491a456781cca304c262a.svg");
+}
+
+html .contacts-one--theme9.inverse .block.one .phone::before {
+  background-image: url("./9de5b6d99d23abc2fc5962ea679f3620.svg");
+}
+
+html .contacts-one--theme9.inverse .block.two .mail::before {
+  background-image: url("./f0734715da9eb6cd421d17e040a804b2.svg");
+}
+
+html .contacts-one--theme9.inverse .block.two .address::before {
+  background-image: url("./b656f7933a9ce95f144dbf50f2d0fff9.svg");
+}
+
+html .contacts-two--theme9 .contacts-two-inner .block::before {
+  background-color: rgb(237, 77, 51);
+}
+
+html .contacts-two--theme9.inverse .contacts-two-wrapper {
+  background-color: rgb(52, 49, 82);
+}
+
+html .contacts-two--theme9.inverse .contacts-two-inner .phone::before {
+  background-image: url("./669778484cbaabfd6c7b4841c9a28b3a.svg");
+}
+
+html .contacts-two--theme9.inverse .contacts-two-inner .address::before {
+  background-image: url("./cb397784b4bfd1d5fc9576ef9873dd0e.svg");
+}
+
+html .contacts-two--theme9.inverse .contacts-two-inner .mail::before {
+  background-image: url("./7fbd6d3ce145f6afc6e48a57686aeede.svg");
+}
+
+html .contacts-three--theme9 .left-part::before {
+  background-color: rgb(42, 187, 180);
+}
+
+html .contacts-three--theme9 .right-part > div::before {
+  background-color: rgb(42, 187, 180);
+}
+
+html .contacts-three--theme9.inverse .contacts-three-wrapper {
+  background-color: rgb(56, 54, 76);
+}
+
+html .contacts-three--theme9.inverse .left-part::before {
+  background-image: url("./ee9719ff47556f1e04923681641a8b68.svg");
+}
+
+html .contacts-three--theme9.inverse .right-part .mail::before {
+  background-image: url("./fe4ad7ed5986d564e883b29b1d9dee3c.svg");
+}
+
+html .contacts-three--theme9.inverse .right-part .address::before {
+  background-image: url("./06f05315b1ac1aa5401f5a5f296760fb.svg");
+}
+
+html .partners_bl_wrapper2.inverse {
+  background-color: rgb(42, 187, 180);
+}
+
+html .header-two--theme9 .left-part .site-name {
+  color: rgb(131, 87, 58);
+}
+
+html .header-two--theme9.inverse .header-two-wrapper {
+  background-color: rgb(44, 42, 64);
+}
+
+html .header-two--theme9.inverse .site-name {
+  color: rgb(62, 209, 193);
+}
+
+html .header-six--theme9 .left-part .site-name {
+  color: rgb(237, 77, 51);
+}
+
+html .header-six--theme9 .right-part .button a {
+  background-color: rgb(42, 187, 180);
+}
+
+html .header-six--theme9.inverse .header-six-wrapper {
+  background-color: rgb(44, 42, 64);
+}
+
+html .header-six--theme9.inverse .right-part .button a {
+  background-color: rgb(90, 135, 25);
+}
+
+html .header-seven--theme9 .left-part .site-name {
+  color: rgb(237, 77, 51);
+}
+
+html .header-seven--theme9 .right-part .button a {
+  background-color: rgb(42, 187, 180);
+}
+
+html .header-seven--theme9.inverse .header-seven-wrapper {
+  background-color: rgb(44, 42, 64);
+}
+
+html .header-seven--theme9.inverse .left-part .site-activity {
+  color: rgb(150, 204, 72);
+}
+
+html .header-seven--theme9.inverse .right-part .button a {
+  background-color: rgb(90, 135, 25);
+}
+
+html .header-four--theme9 .site-activity {
+  color: rgb(50, 50, 50);
+}
+
+html .header-four--theme9 .site-name-wrapper .site-name {
+  color: rgb(237, 77, 51);
+}
+
+html .header-four--theme9 .right-part .button-wrap a {
+  background-color: rgb(42, 187, 180);
+}
+
+html .header-four--theme9.inverse .header-four-wrapper {
+  background-color: rgb(44, 42, 64);
+}
+
+html .header-four--theme9.inverse .site-activity {
+  color: rgb(40, 238, 228);
+}
+
+html .header-four--theme9.inverse .site-name-wrapper .site-name {
+  color: rgb(230, 236, 241);
+}
+
+html .header-four--theme9.inverse .right-part .button-wrap a {
+  background-color: rgb(255, 185, 0);
+}
+
+html .menu--theme1 .top-menu > li > a {
+  border-bottom-color: rgb(255, 185, 0);
+  color: rgb(50, 50, 50);
+}
+
+@media all and (max-width: 640px) {html .menu--theme1 .top-menu > li > a {
+  color: rgb(66, 60, 44);
+}}
+
+html .menu--theme1 .top-menu > li > a:hover {
+  border-top-color: rgb(255, 185, 0);
+  border-right-color: rgb(255, 185, 0);
+  border-bottom-color: rgb(255, 185, 0);
+  border-left-color: rgb(255, 185, 0);
+}
+
+html .menu--theme1.inverse .menu-wrapper {
+  background-color: rgb(255, 185, 0);
+}
+
+html .menu--theme1.inverse .menu-fixed {
+  background-color: rgb(255, 185, 0);
+}
+
+html .menu--theme1.inverse .top-menu > li > a {
+  color: rgb(30, 25, 13);
+  border-top-color: rgb(22, 22, 22);
+  border-right-color: rgb(41, 41, 41);
+  border-bottom-color: rgb(43, 42, 42);
+  border-left-color: rgb(25, 25, 25);
+}
+
+html .header--theme1 .header-wrapper {
+  background-color: rgb(43, 43, 43);
+}
+
+html .header--theme1 .header-inner .left-part .site-name {
+  color: rgb(248, 250, 252);
+}
+
+html .header--theme1 .header-inner .left-part .site-activity {
+  color: rgb(255, 185, 0);
+}
+
+html .header--theme1 .header-inner .right-part .work-time {
+  color: rgb(220, 220, 220);
+}
+
+html .header--theme1 .header-inner .right-part .phone-part::before {
+  background-color: rgb(255, 185, 0);
+}
+
+html .header--theme1 .header-inner .right-part .mail {
+  color: rgb(255, 185, 0);
+}
+
+html .header--theme1.inverse .header-wrapper {
+  background-color: rgb(255, 253, 253);
+}
+
+html .header--theme1.inverse .header-inner .left-part .site-name {
+  color: rgb(255, 158, 0);
+}
+
+html .header--theme1.inverse .header-inner .left-part .site-activity {
+  color: rgb(37, 37, 37);
+}
+
+html .header--theme1.inverse .header-inner .right-part .work-time {
+  color: rgb(23, 23, 23);
+}
+
+html .header--theme1.inverse .header-inner .right-part .phone-part::before {
+  background-color: rgb(255, 185, 0);
+}
+
+html .sale-block--theme1 .bottom-part {
+  background-color: rgb(255, 158, 0);
+}
+
+html .double-list--theme1 .double-list-wrapper {
+  background-color: rgb(246, 241, 241);
+}
+
+html .double-list--theme1 .block-title-wrapper {
+  background-color: rgb(43, 43, 43);
+}
+
+html .double-list--theme1 .block-title {
+  background-color: rgb(43, 43, 43);
+  color: rgb(255, 185, 0);
+}
+
+html .double-list--theme1 .double-list-inner .right-part ul li::before {
+  background-color: rgb(255, 185, 0);
+}
+
+html .double-list--theme1.inverse .block-title-wrapper {
+  background-color: rgb(255, 185, 0);
+}
+
+html .double-list--theme1.inverse .block-title {
+  background-color: rgb(255, 185, 0);
+}
+
+html .double-list--theme1.inverse .double-list-wrapper {
+  background-color: rgb(37, 37, 37);
+}
+
+html .double-list--theme1.inverse .block-title {
+  color: rgb(20, 18, 18);
+}
+
+html .double-list--theme1.inverse .double-list-inner .right-part ul li::before {
+  background-color: rgb(255, 158, 0);
+}
+
+html .gallery--theme1 .gallery-wrapper {
+  background-color: rgba(195, 195, 195, 0.31);
+}
+
+html .gallery--theme1.inverse .gallery-wrapper {
+  background-color: rgb(231, 231, 231);
+}
+
+html .gallery--theme1.inverse .block-title {
+  color: rgb(37, 37, 37);
+}
+
+html .middle-form--theme1 .btn button {
+  background-color: rgb(43, 43, 43);
+}
+
+html .middle-form--theme1.inverse .middle-form-wrapper {
+  background-color: rgb(37, 37, 37);
+}
+
+html .sertificats--theme1.inverse .sertificats-wrapper {
+  background-color: rgb(37, 37, 37);
+}
+
+html .partners--theme1.inverse .partners-wrapper {
+  background-color: rgb(51, 51, 51);
+}
+
+html .text-part--theme1.inverse .text-part-wrapper {
+  background-color: rgb(37, 37, 37);
+}
+
+html .advantages--theme1.inverse .advantages-wrapper {
+  background-color: rgb(37, 37, 37);
+}
+
+html .reviews--theme1.inverse .reviews-wrapper {
+  background-color: rgb(37, 37, 37);
+}
+
+html .timer-form--theme1 .timer-form-wrapper {
+  background-color: rgb(43, 43, 43);
+}
+
+html .timer-form--theme1.inverse .timer-form-wrapper {
+  background-color: rgb(255, 158, 0);
+}
+
+html .footer--theme1.inverse .footer-wrapper {
+  background-color: rgb(37, 37, 37);
+}
+
+html .pr_block1_wrapper {
+  background-color: rgb(43, 43, 43);
+}
+
+html .pr_block1_wrapper .pr_block1_item .pr_block1_in {
+  background-color: rgb(245, 245, 245);
+}
+
+html .pr_block1_wrapper .pr_block1_item .pr_price {
+  color: rgb(255, 147, 0);
+}
+
+html .pr_block2_wrapper {
+  background-color: rgba(216, 216, 217, 0.63);
+}
+
+html .pr_block2_wrapper.inverse {
+  background-color: rgb(37, 37, 37);
+}
+
+html .steps_wrapper {
+  background-color: rgb(43, 43, 43);
+}
+
+html .steps_wrapper.inverse .step_in .steps_num {
+  background-color: rgb(20, 20, 20);
+}
+
+html .tm_block1_wrapper {
+  background-color: rgba(216, 216, 217, 0.75);
+}
+
+html .tm_block1_wrapper.inverse {
+  background-color: rgba(0, 0, 0, 0.79);
+}
+
+html .tm_block1_wrapper.inverse .owl-dots .owl-dot {
+  background-color: rgb(255, 164, 33);
+}
+
+html .tm_block2_wrapper {
+  background-color: rgba(216, 216, 217, 0.85);
+}
+
+html .tm_block2_wrapper.inverse {
+  background-color: rgba(7, 7, 7, 0.75);
+}
+
+html .cns_block_wrapper {
+  background-color: rgb(43, 43, 43);
+}
+
+html .cns_block_wrapper .cns_item1 .cns_phones::before {
+  background-image: url("./de1c6045022763d3f3f57d8dc27bbbe1.svg");
+}
+
+html .cns_block_wrapper .cns_item1 .cns_adress::before {
+  background-image: url("./7a3670e01328e32afac3fae6cda9f1ba.svg");
+}
+
+html .cns_block_wrapper .cns_item2 .cns_time::before {
+  background-image: url("./abc54766d41abc8ba211b6ea6dcf2861.svg");
+}
+
+html .cns_block_wrapper .cns_item2 .cns_mail::before {
+  background-image: url("./0dd4ff0a148a420f826f276a0349ce69.svg");
+}
+
+html .steps_bl2_wrapper {
+  background-color: rgb(43, 43, 43);
+}
+
+html .steps_bl2_wrapper.inverse .steps_bl2_num {
+  background-color: rgb(255, 158, 0);
+}
+
+html .steps_bl2_wrapper.inverse .st_extra:last-child .steps_bl2_item:last-child .steps_bl2_num {
+  background-color: rgb(20, 20, 20);
+}
+
+html .site_header1_wrapper .h_site_name a {
+  color: rgb(43, 43, 43);
+}
+
+html .site_header1_wrapper .h_site_desc {
+  color: rgb(252, 127, 11);
+}
+
+html .site_header1_wrapper .h_phones_wr .h_phones::before {
+  background-color: rgb(24, 24, 24);
+}
+
+html .site_header1_wrapper .h_mail a {
+  color: rgb(255, 126, 0);
+}
+
+html .site_header2_wrapper .h_site_name a {
+  color: rgb(43, 43, 43);
+}
+
+html .site_header2_wrapper .h_site_desc {
+  color: rgb(255, 136, 0);
+}
+
+html .site_header2_wrapper .call_button {
+  background-image: -webkit-linear-gradient(rgb(255, 179, 0), rgb(255, 158, 0));
+  background-image: linear-gradient(rgb(255, 179, 0), rgb(255, 158, 0));
+  text-shadow: 0px 1px 1px rgba(229, 86, 0, 0.6);
+}
+
+html .site_header2_wrapper .call_button:hover {
+  background-image: -webkit-linear-gradient(rgb(255, 179, 0), rgb(255, 158, 0));
+  background-image: linear-gradient(rgb(255, 179, 0), rgb(255, 158, 0));
+}
+
+html .site_header3_wrapper .h_mid_part .h_site_name a {
+  color: rgb(43, 43, 43);
+}
+
+html .site_header3_wrapper .h_mid_part .h_site_desc {
+  color: rgb(255, 126, 0);
+}
+
+html .site_header3_wrapper .h_right_part .call_button {
+  background-image: -webkit-linear-gradient(rgb(255, 179, 0), rgb(255, 158, 0));
+  background-image: linear-gradient(rgb(255, 179, 0), rgb(255, 158, 0));
+}
+
+html .site_header3_wrapper .h_left_part .h_phones_wr .h_phones::before {
+  background-color: rgb(255, 158, 0);
+}
+
+html .top_block1_wrapper .top_bl1_inner {
+  background-color: rgb(255, 158, 0);
+}
+
+html .g-tooltip--help {
+  color: rgb(216, 216, 217);
+  border-top-color: rgb(216, 216, 217);
+  border-right-color: rgb(216, 216, 217);
+  border-bottom-color: rgb(216, 216, 217);
+  border-left-color: rgb(216, 216, 217);
+}
+
+html .g-button.g-button--invert.g-button--disabled {
+  color: rgb(239, 239, 240) !important;
+}
+
+html .g-button--disabled.g-button--arr-right::after {
+  background-image: url("./ef0c22ace350bbaaf032ecf71a31f94b.svg") !important;
+}
+
+html .g-button--disabled.g-button--arr-left::after {
+  background-image: url("./86bcc3587b5834e5a2338a8fcbfbb6bc.svg") !important;
+}
+
+html .g-form-field__title--disabled {
+  color: rgb(239, 239, 240);
+}
+
+html .g-form-control-checkbox input[disabled]:not([checked]) ~ .g-form-control-checkbox__label {
+  color: rgb(239, 239, 240);
+}
+
+html .g-panel__capture {
+  color: rgb(216, 216, 217);
+}
+
+html .g-vote__body-right {
+  color: rgb(216, 216, 217);
+}
+
+html .g-vote-status__date {
+  color: rgb(216, 216, 217);
+}
+
+html .g-search-results__note {
+  color: rgb(216, 216, 217);
+}
+
